@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce30caec1b4505f479ceaf557d995db3, type: 3}
+  m_Name: Jimmy
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueInitial
+  actor: {fileID: 6615587265895542474, guid: a8ba88d4d5150d5449d8f13269bf6a62, type: 3}
+  spearkerSprite: {fileID: 0}
+  setence: 
+  dialogues:
+  - actorName: Jimmy
+    profile: {fileID: 0}
+    sentence:
+      portuguese: "Ol\xE1 Her\xF3i Seja bem vindo! Tudo bem com voc\xEA ?"
+      english: 
+      spanish: 
+  - actorName: Scars
+    profile: {fileID: 0}
+    sentence:
+      portuguese: "Obrigado! Estou bem sim voc\xEA \xE9 o Jimmy correto?"
+      english: 
+      spanish: 
+  - actorName: Jimmy
+    profile: {fileID: 0}
+    sentence:
+      portuguese: "Sim sou eu, estava a sua espera inclusive, aqui voc\xEA receber\xE1
+        todos os treinamentos possivevis para melhorar suas habilidades"
+      english: 
+      spanish: 
+  - actorName: Scars
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Isso que eu esperava!
+      english: 
+      spanish: 
